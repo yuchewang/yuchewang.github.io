@@ -1129,7 +1129,7 @@ pre .javascript .function {
 }
 .site-description {
   color: #999;
-  font-size: 1em;
+  font-size: 0.875em;
   margin-top: 5px;
   text-align: center;
 }
@@ -1147,7 +1147,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffe5ff;
+  background: #22b9ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
